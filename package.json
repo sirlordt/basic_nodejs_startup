@@ -1,0 +1,23 @@
+{
+  "name": "basic_startup",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "npm run build:clean && tsc",
+    "start:dev-old": "nodemon src/index.ts --exec ts-node",
+    "start:dev": "nodemon",
+    "start": "node --expose-gc build/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:clean": "rimraf build/*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "rimraf": "^3.0.0",
+    "nodemon": "^1.19.4",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.4"
+  }
+}

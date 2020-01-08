@@ -1,0 +1,6 @@
+node_modules/
+build/
+temp/tmp-*
+logs/
+deploy_target.json
+.env.log

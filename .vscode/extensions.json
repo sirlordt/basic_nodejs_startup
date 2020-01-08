@@ -1,0 +1,24 @@
+{
+  "recommendations": [
+    "ChakrounAnas.turbo-console-log",
+    "CoenraadS.bracket-pair-colorizer",
+    "dbaeumer.jshint",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "esbenp.prettier-vscode",
+    "ExodiusStudios.comment-anchors",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.terminal",
+    "HookyQR.beautify",
+    "ionutvmi.path-autocomplete",
+    "jrebocho.vscode-random",
+    "kaffa.insert-filename",
+    "msjsdiag.debugger-for-chrome",
+    "PKief.material-icon-theme",
+    "pmneo.tsimporter",
+    "quicktype.quicktype",
+    "shardulm94.trailing-spaces",
+    "xabikos.ReactSnippets",
+  ]
+}
