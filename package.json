@@ -13,10 +13,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "debug": "^4.1.1",
+    "dotenv": "^8.2.0"
+  },
   "devDependencies": {
-    "rimraf": "^3.0.0",
+    "@types/node": "^13.1.5",
     "nodemon": "^1.19.4",
+    "rimraf": "^3.0.0",
     "ts-node": "^8.4.1",
     "typescript": "^3.6.4"
   }
