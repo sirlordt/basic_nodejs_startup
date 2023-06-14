@@ -11,6 +11,8 @@
       "name": "Launch Program",
       "program": "${workspaceFolder}/src/index.ts",
       "preLaunchTask": "build",
+      "outputCapture": "std",
+      "console": "integratedTerminal",
       "outFiles": [
         "${workspaceFolder}/build/**/*.js"
       ]
